@@ -1,0 +1,6 @@
+gpiozero
+lgpio
+smbus2
+spidev
+numpy
+opencv-python
