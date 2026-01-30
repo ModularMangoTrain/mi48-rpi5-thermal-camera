@@ -6,7 +6,7 @@ Simple thermal camera setup for Raspberry Pi 5 with Bookworm OS using the MI48 s
 
 - Raspberry Pi 5
 - MI48 thermal sensor with uHAT board (https://thepihut.com/products/long-wave-ir-thermal-imaging-camera-hat-for-raspberry-pi)
-- Raspberry Pi OS Bookworm (64-bit)
+- Raspberry Pi OS Trixie (duh, fixes stuff on this version) (64-bit)
 
 ## Quick Setup
 
